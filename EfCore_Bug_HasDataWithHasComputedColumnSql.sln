@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore_Bug_HasDataWithHasComputedColumnSql", "EfCore_Bug_HasDataWithHasComputedColumnSql\EfCore_Bug_HasDataWithHasComputedColumnSql.csproj", "{9F0F6F6C-F0D1-4225-BA5C-251F2DD11A62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore_Bug_HasDataWithHasComputedColumnSql.Tests", "EFCore_Bug_HasDataWithHasComputedColumnSql.Tests\EFCore_Bug_HasDataWithHasComputedColumnSql.Tests.csproj", "{2773FDD3-BF94-43F4-A347-377D472CF31D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9F0F6F6C-F0D1-4225-BA5C-251F2DD11A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0F6F6C-F0D1-4225-BA5C-251F2DD11A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F0F6F6C-F0D1-4225-BA5C-251F2DD11A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2773FDD3-BF94-43F4-A347-377D472CF31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2773FDD3-BF94-43F4-A347-377D472CF31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2773FDD3-BF94-43F4-A347-377D472CF31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2773FDD3-BF94-43F4-A347-377D472CF31D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
